@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Umairulislam.github.io/React-Sidenav/static/css/main.043eb2a5.chunk.css",
+    "main.js": "/Umairulislam.github.io/React-Sidenav/static/js/main.ab270ec1.chunk.js",
+    "main.js.map": "/Umairulislam.github.io/React-Sidenav/static/js/main.ab270ec1.chunk.js.map",
+    "runtime-main.js": "/Umairulislam.github.io/React-Sidenav/static/js/runtime-main.d89e21d5.js",
+    "runtime-main.js.map": "/Umairulislam.github.io/React-Sidenav/static/js/runtime-main.d89e21d5.js.map",
+    "static/js/2.8735ba63.chunk.js": "/Umairulislam.github.io/React-Sidenav/static/js/2.8735ba63.chunk.js",
+    "static/js/2.8735ba63.chunk.js.map": "/Umairulislam.github.io/React-Sidenav/static/js/2.8735ba63.chunk.js.map",
+    "index.html": "/Umairulislam.github.io/React-Sidenav/index.html",
+    "static/css/main.043eb2a5.chunk.css.map": "/Umairulislam.github.io/React-Sidenav/static/css/main.043eb2a5.chunk.css.map",
+    "static/js/2.8735ba63.chunk.js.LICENSE.txt": "/Umairulislam.github.io/React-Sidenav/static/js/2.8735ba63.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Umairulislam.github.io/React-Sidenav/static/media/pic6.4acc7eea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d89e21d5.js",
+    "static/js/2.8735ba63.chunk.js",
+    "static/css/main.043eb2a5.chunk.css",
+    "static/js/main.ab270ec1.chunk.js"
+  ]
+}
