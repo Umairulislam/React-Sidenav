@@ -1,38 +1,52 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Shippori Mincho', serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.pages {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  height: 620px;
+  font-size: 40px;
+  color: black;
 }
 
-.App-link {
-  color: #61dafb;
+.home {
+  background: url(./images/pic1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.reports {
+  background: url(./images/pic2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.products {
+  background: url(./images/pic3.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.team{
+  background: url(./images/pic4.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.messages {
+  background: url(./images/pic6.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.support {
+  background: url(./images/pic5.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
